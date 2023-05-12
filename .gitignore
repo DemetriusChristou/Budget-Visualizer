@@ -1,0 +1,7 @@
+*.pyo
+*.pyc
+.installed.cfg
+bin
+env
+.vs
+data
